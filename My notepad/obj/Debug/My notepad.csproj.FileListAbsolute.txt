@@ -1,0 +1,32 @@
+c:\alltamrin\My notepad\My notepad\bin\Debug\My notepad.exe
+c:\alltamrin\My notepad\My notepad\bin\Debug\My notepad.pdb
+c:\alltamrin\My notepad\My notepad\obj\Debug\My notepad.csprojResolveAssemblyReference.cache
+c:\alltamrin\My notepad\My notepad\obj\Debug\My_notepad.Form1.resources
+c:\alltamrin\My notepad\My notepad\obj\Debug\My_notepad.Properties.Resources.resources
+c:\alltamrin\My notepad\My notepad\obj\Debug\My notepad.csproj.GenerateResource.Cache
+c:\alltamrin\My notepad\My notepad\obj\Debug\My notepad.exe
+c:\alltamrin\My notepad\My notepad\obj\Debug\My notepad.pdb
+c:\alltamrin\My notepad\My notepad\obj\Debug\My_notepad.Frmfind.resources
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\bin\Debug\My notepad.exe
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\bin\Debug\My notepad.pdb
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\obj\Debug\My notepad.csprojResolveAssemblyReference.cache
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\obj\Debug\My_notepad.Form1.resources
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\obj\Debug\My_notepad.Frmfind.resources
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\obj\Debug\My_notepad.Properties.Resources.resources
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\obj\Debug\My notepad.csproj.GenerateResource.Cache
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\obj\Debug\My notepad.exe
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\obj\Debug\My notepad.pdb
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\obj\Debug\My_notepad.Frmreplace.resources
+D:\FaraDars.Org\T1056\FVCS9312\FVCSH9312-S5\Files And Codes\My notepad\My notepad\obj\Debug\My_notepad.frmgoto.resources
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\bin\Debug\My notepad.exe
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\bin\Debug\My notepad.pdb
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\obj\Debug\My notepad.csprojAssemblyReference.cache
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\obj\Debug\My_notepad.Form1.resources
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\obj\Debug\My_notepad.Frmfind.resources
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\obj\Debug\My_notepad.frmgoto.resources
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\obj\Debug\My_notepad.Frmreplace.resources
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\obj\Debug\My_notepad.Properties.Resources.resources
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\obj\Debug\My notepad.csproj.GenerateResource.cache
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\obj\Debug\My notepad.csproj.CoreCompileInputs.cache
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\obj\Debug\My notepad.exe
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S07-S10\My notepad\My notepad\obj\Debug\My notepad.pdb
